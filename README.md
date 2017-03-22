@@ -35,7 +35,7 @@ conf = {environment: constants.SANDBOX,
 
 var Sdk = new Sdk(conf);
 
-var response = Sdk.payOnline2p({
+Sdk.payOnline2p({
         psp_Version: '2.2',
         psp_MerchantId: 'psp_test',
         psp_TxSource: 'WEB',
