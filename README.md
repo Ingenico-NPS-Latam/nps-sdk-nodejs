@@ -1,5 +1,4 @@
 #  Node.js SDK
-<%= image_tag '../images/devicon/nodejs-original.svg', { :width => '60', :class => 'Node.JS Client-side SDK', :alt => '' } %>
 
 ## Availability
 Supports Node.Js v4.2.0 and above
