@@ -3,3 +3,4 @@ test/test.js
 npm-debug.log
 lib/wsdl/development.wsdl
 .idea/
+lib/struc/

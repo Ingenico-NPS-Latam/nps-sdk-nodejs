@@ -1,6 +1,6 @@
 {
     "name": "nps_sdk",
-    "version": "1.1.11",
+    "version": "1.1.12",
     "description": "A Node.Js SDK for Ingenico ePayments - NPS LatAm Services",
     "keywords": [
         "Ingenico","npssdk",
@@ -10,7 +10,7 @@
         ],
     "homepage": "https://github.com/Ingenico-NPS-Latam/nps-sdk-nodejs",
     "contributors": [
-        "Gustavo Diaz <gustavo.diaz@ingenico.com>"        
+        "Ingenico <merchantservices@ingenico.com>"
     ],
     "repository": 
     {
