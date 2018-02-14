@@ -1,6 +1,6 @@
 {
   "name": "nps_sdk",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "A Node.Js SDK for Ingenico ePayments - NPS LatAm Services",
   "keywords": [
     "Ingenico",
@@ -24,6 +24,7 @@
   "dependencies": {
     "ini": "1.3.4",
     "soap": "0.18.0",
+    "winston": "^3.0.0-rc1",
     "xml-beautifier": "^0.3.0"
   },
   "license": "MIT"

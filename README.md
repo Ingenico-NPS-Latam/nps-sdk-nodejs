@@ -145,3 +145,12 @@ conf = {environment: constants.SANDBOX,
         secretKey: 'YOUR KEY HERE',
         proxyUrl: "your proxy url"}
 ```
+
+Cache
+
+```javascript
+var constants = require('./lib/constants')
+
+conf = {environment: constants.SANDBOX, 
+        secretKey: 'YOUR KEY HERE',
+        cache: true}
