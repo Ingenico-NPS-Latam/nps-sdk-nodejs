@@ -153,9 +153,4 @@ var constants = require('./lib/constants')
 
 conf = {environment: constants.SANDBOX, 
         secretKey: 'YOUR KEY HERE',
-<<<<<<< HEAD
         cache: true}
-=======
-        cache: true}
-```
->>>>>>> f31ff9f447cf3d09711a800b2547d1f2042e8831
