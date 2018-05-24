@@ -1,6 +1,6 @@
 {
   "name": "nps_sdk",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "description": "A Node.Js SDK for Ingenico ePayments - NPS LatAm Services",
   "keywords": [
     "Ingenico",
