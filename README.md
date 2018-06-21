@@ -141,7 +141,7 @@ var constants = require('./lib/constants')
 
 conf = {environment: constants.SANDBOX, 
         secretKey: 'YOUR KEY HERE',
-        timeout: 5000}
+        timeout: 60000}
 ```
 
 ### Proxy configuration
