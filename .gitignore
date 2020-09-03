@@ -1,7 +1,8 @@
-node_modules/
-test/test.js
+# IDEs and editors
+/.idea/
+/.vscode/
+
 npm-debug.log
+node_modules/
 lib/wsdl/development.wsdl
-.idea/
 lib/struc/
-test/
